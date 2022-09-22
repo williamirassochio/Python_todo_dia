@@ -57,3 +57,4 @@ for estado in niveis_co2:
     RO está com níveis altíssimos de CO2 455.8, chamar equipe especializada para verificar a região.
     SC está com níveis altíssimos de CO2 455.0, chamar equipe especializada para verificar a região.
     
+# modificações para trabalho git
